@@ -24,6 +24,7 @@ img {
   padding:12px;
   background-color: lightsalmon;
   box-sizing: content-box;
+  border-style: ridge;
 }
 
 .header {
@@ -40,6 +41,7 @@ img {
   padding:6px;
   background-color: lightsalmon;
   box-sizing: border-box;
+  border-style: ridge;
 
 }
 
@@ -50,4 +52,15 @@ img {
   padding:6px;
   background-color: lightsalmon;
   box-sizing: border-box;
+  border-style: ridge;
+}
+
+.diving ul {
+  border: 6px solid seagreen;
+  border-style: ridge;
+}
+
+.coding em {
+  color: red;
+  font-weight: bolder;
 }
