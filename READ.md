@@ -11,9 +11,6 @@
 * Open simple HTTP Server in the top level of the cloned directory forum
 * Access the webpage through Github Pages
 
-## Known Bugs
-#### Anytime I center any text that is apart of a "ul" or "ol" list, the colons/numbers stay to the left of the screen. I have not been able to fix this problem yet.
-
 ## Technologies Used
 * HTML
 * CSS
