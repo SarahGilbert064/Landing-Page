@@ -1,13 +1,12 @@
 
 img {
-  width: 400px;
+  width: 330px;
   height:50%;
   float: right;
   margin: 10px;
   border: 6px solid seagreen;
   padding: 4px;
   border-style: ridge;
-
 }
 
 .about {
@@ -23,10 +22,10 @@ img {
 
 .things {
   color: grey;
-  font-size: 14px;
+  font-size: 10px;
   font-family: monospace;
   text-align: center;
-  width: 450px;
+  width: 500px;
   float: left;
   margin: 25px;
   border: 8px solid seagreen;
@@ -37,15 +36,26 @@ img {
   list-style-position: inside;
 }
 
+.things h2 {
+  font-size: x-large;
+  font-style: oblique;
+  font-weight: bolder;
+  color: darkcyan;
+}
+
+.things li {
+  font-size: 130%;
+}
+
 .header {
   font-family: "Comic Sans MS", cursive, sans-serif;
-  color: lightgoldenrodyellow; 
-  font-weight: bolder
-
+  color:darkcyan; 
+  font-weight: bolder;
+  font-style: oblique;
 }
 
 .intro {
-  color: grey;
+  color:darkcyan;
   margin: 25px;
   border:12px solid seagreen ;
   padding:6px;
@@ -65,11 +75,16 @@ img {
   border-style: ridge;
 }
 
+.projects h2 {
+  color:darkcyan;
+}
+
 .diving ul {
   border: 6px solid seagreen;
   border-style: ridge;
   text-align: center;
   list-style-position: inside;
+    
 }
 
 .coding em {
