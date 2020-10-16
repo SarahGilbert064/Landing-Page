@@ -9,10 +9,19 @@ img {
   color: green;
   font-size: 18px;
   font-family: bradley hand;
+  text-align: center;
 }
 
 .things {
   color: blueviolet;
   font-size: 14px;
   font-family: monospace;
+  text-align: center;
+  width: 500px;
+  float: left;
+}
+
+.header {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder
 }
