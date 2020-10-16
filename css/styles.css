@@ -13,7 +13,7 @@ img {
 }
 
 .things {
-  color: black;
+  color: grey;
   font-size: 14px;
   font-family: monospace;
   text-align: center;
@@ -22,7 +22,7 @@ img {
   margin: 25px;
   border: 8px solid seagreen;
   padding:12px;
-  background-color: lavender;
+  background-color: lightsalmon;
   box-sizing: content-box;
 }
 
@@ -34,11 +34,20 @@ img {
 }
 
 .intro {
-  color: black;
+  color: grey;
   margin: 25px;
   border:12px solid seagreen ;
   padding:6px;
-  background-color: lavender;
+  background-color: lightsalmon;
   box-sizing: border-box;
 
+}
+
+.projects {
+  color: grey;
+  margin: 25px;
+  border:12px solid seagreen ;
+  padding:6px;
+  background-color: lightsalmon;
+  box-sizing: border-box;
 }
