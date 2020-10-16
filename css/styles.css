@@ -12,6 +12,10 @@ img {
   text-align: center;
 }
 
+.about strong {
+  color: blue;
+}
+
 .things {
   color: grey;
   font-size: 14px;
@@ -25,6 +29,7 @@ img {
   background-color: lightsalmon;
   box-sizing: content-box;
   border-style: ridge;
+  list-style-position: inside;
 }
 
 .header {
@@ -58,6 +63,8 @@ img {
 .diving ul {
   border: 6px solid seagreen;
   border-style: ridge;
+  text-align: center;
+  list-style-position: inside;
 }
 
 .coding em {
